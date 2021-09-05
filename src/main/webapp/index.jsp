@@ -4,8 +4,8 @@
 <html>
 <body>
 <b>Welcome to Servlets!</b>
-<form action="HelloWorldServlet" method="get">
-    Enter your name: <input type="text" name="name" size="24"></br>
+<form action="HelloWorldServlet" method="get" style="background-color:lightred;">
+    Enter your name: <input type="text" name="name" size="24" style="><br>
     Enter your roll_no: <input type="text" name="name" size="14"><br>
     <input type="submit" value="Submit" />
 </form>
